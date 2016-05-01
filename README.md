@@ -6,13 +6,21 @@ Passive-Dynamic-Walking
 
 --------
 
-[```simpwm```](https://github.com/horchler/Passive-Dynamic-Walking/blob/master/simpwm.m) simulates the ["Simplest Walking Model"](http://dx.doi.org/10.1115/1.2798313) passive dynamic walker for eight ```steps``` with a default slope, ```gam```, of 0.01 radians.  
+[```simpwm```](https://github.com/horchler/Passive-Dynamic-Walking/blob/master/simpwm.m) simulates the [&#8220;Simplest Walking Model&#8221;](http://dx.doi.org/10.1115/1.2798313) passive dynamic walker for eight ```steps``` with a default slope, ```gam```, of 0.01 radians.  
   
 [```fullwm```](https://github.com/horchler/Passive-Dynamic-Walking/blob/master/fullwm.m) simulates the full dynamics of a compass gait passive dynamic walker for eight ```steps``` with a default slope, ```gam```, of ```0.01``` radians and a ratio of foot-to-hip mass, ```B```, of ```0.01```.  
   
 [```actuwm```](https://github.com/horchler/Passive-Dynamic-Walking/blob/master/actuwm.m) simulates the "Simplest Walking Model" passive dynamic walker [powered by toe-off impulse and a spring-like torque at hip](http://dx.doi.org/10.1115/1.1427703) for eight ```steps``` with a default slope, ```gam```, of ```0``` radians.  
   
 [```wmview(y,gam,tci)```](https://github.com/horchler/Passive-Dynamic-Walking/blob/master/wmview.m) animates the passive dynamic data in ```y``` for slope angle ```gam``` and collision indices ```tci```.    
+&nbsp;  
+
+--------
+
+References  
+ 1. M. Garcia, A. Chatterjee, A. Ruina, and M. Coleman, &#8220;The Simplest Walking Model: Stability, Complexity, and Scaling,&#8221; *ASME Journal of Biomedical Engineering*, Vol. 120, No. 2, pp. 281&ndash;288, 1998. [[http://dx.doi.org/10.1115/1.2798313](http://dx.doi.org/10.1115/1.2798313)]  
+ 2. M.W. Gomes &#8220;A Derivation of the Transisition Rule at Heelstrike which appears in the paper &#8216;The Simplest Walking Model: Stability, Complexity, and Scaling&#8217; by Garcia et al.,&#8221; *ONLINE*, pp. 1&ndash;3, Oct. 4, 1999. [[PDF](http://ruina.tam.cornell.edu/research/topics/locomotion_and_robotics/simplest_walking/simplest_walking_gomes.pdf)]  
+ 3. A.D. Kuo &#8220;Energetics of Actively Powered Locomotion Using the Simplest Walking Model&#8221;, *ASME Journal of Biomedical Engineering*, Vol. 124, No. 1, pp. 113&ndash;120, 2002. [[http://dx.doi.org/10.1115/1.1427703](http://dx.doi.org/10.1115/1.1427703)]  
 &nbsp;  
 
 --------

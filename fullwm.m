@@ -22,7 +22,7 @@ function fullwm(gam,B,steps)
 %   
 %   [2] Mario W. Gomes "A Derivation of the Transisition Rule at Heelstrike
 %   which appears in the paper 'The Simplest Walking Model: Stability,
-%   Complexity, and Scaling' by Garcia et al." pp. 1-3, ONLINE.
+%   Complexity, and Scaling' by Garcia et al." pp. 1-3, Oct. 4, 1999.
 %   http://ruina.tam.cornell.edu/research/topics/locomotion_and_robotics/simplest_walking/simplest_walking_gomes.pdf
 
 %   Andrew D. Horchler, adh9 @ case . edu, Created 7-7-04
