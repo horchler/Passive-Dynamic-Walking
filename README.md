@@ -25,7 +25,7 @@ References
 
 --------
 
-Andrew D. Horchler, *adh9 @ case . edu*, [biorobots.case.edu](http://biorobots.case.edu/)  
+Andrew D. Horchler, *horchler @ gmail . com*, [biorobots.case.edu](http://biorobots.case.edu/)  
 Created: 7-7-04, Revision: 1.1, 5-1-16  
 
 This version tested with Matlab 9.0.0.341360 (R2016a)  
@@ -35,7 +35,7 @@ Compatibility maintained back through Matlab 8.5 (R2015a)
 
 --------
 
-Copyright &copy; 2004&ndash;2016, Andrew D. Horchler  
+Copyright &copy; 2004&ndash;2017, Andrew D. Horchler  
 All rights reserved.  
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:

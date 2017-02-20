@@ -5,7 +5,7 @@ function wmview(y,gam,tci)
 %   
 %   See also: SIMPWM, FULLWM, ACTUWM.
 
-%   Andrew D. Horchler, adh9 @ case . edu, Created 7-7-04
+%   Andrew D. Horchler, horchler @ gmail . com, Created 7-7-04
 %   Revision: 1.1, 5-1-16
 
 
