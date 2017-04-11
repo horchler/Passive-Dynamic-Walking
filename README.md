@@ -1,8 +1,8 @@
 Passive-Dynamic-Walking
 ========
-#####Simulation and animation of simple passive dynamic walking models in Matlab.#####
-######Version 1.1, 5-1-16######
-#####Download Repository: [ZIP Archive](https://github.com/horchler/Passive-Dynamic-Walking/archive/master.zip)#####
+##### Simulation and animation of simple passive dynamic walking models in Matlab.
+###### Version 1.1, 5-1-16
+##### Download Repository: [ZIP Archive](https://github.com/horchler/Passive-Dynamic-Walking/archive/master.zip)
 
 --------
 
